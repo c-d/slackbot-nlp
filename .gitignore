@@ -1,2 +1,4 @@
 target/*
 src/main/app/mule-app.properties
+.classpath
+.project
